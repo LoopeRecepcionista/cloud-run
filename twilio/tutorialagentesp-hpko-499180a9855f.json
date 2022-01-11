@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tutorialagentesp-hpko",
+  "private_key_id": "499180a9855f60931997696708afd2dfaaeec91b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDCe5u14QF8eEyM\n08z3EoaT9gnzJw/0Ar4kE00gsiWFdvJSRAwxe46NOPCrFtz/zijpT4EEBLdWUL/1\nfaYNHQcR1s5dHHYWvi5rWC/wGY1kXGv+EZKTKXzwNWr1F7mzR1+2jVbmQ/JpF4/d\n7Yru4Ca8AIfOVYuVb0GEixnJYRB18KS3s1Mo/z6B2JVaA6KcOu3czpjQHdGzxohv\nHA/NJMlk+8FGZAG3fBl6297OoEo/kNvkZu9IqnffF8PAC+/4ioiSWTkfo03bxb8B\nFpR05jxHX+0v0x5K8EqbU0m0Yol69sBiMfj2BLVFD0cGYth2LPJpGihEvKr+HLcD\nGzAEef5BAgMBAAECggEAA0g2voEHl2QoVpAUe27ymniifloAaOvK7azttkmLXI8/\nU6gWVJdzNmrplNmT7TU7d4SB9uFlfq1qL+ho7vu4bNKlNOkQDR40hlc8p96mhjUR\nFX6SbK1ckGk2XuCBn8bqlJgaCVTIOIHPSb2ChLl/rdiMciz7aBAymNwIGV/r+TGI\n6OxHogSJ4XP+S9m3jYhG4sCtAP3OK3nyPrj28fZuDU9wRWgHVnW2ksP4e/JHJv8I\nhxYEw0houPkecgbYI8CGNV81YiGCkIBq/ZMmXjO8isKOWJuOPu1zHAAHobecPiM6\nDF51hYqDG6Uj9jzcr/3WWx5c5TfkgD3Od/F23CySyQKBgQDwGMhUnp09XZCiIcDV\nFIKF3fHxv8KbDiOWkc08QMPYOInGwTrLWv4N9ZZbBSJfrkF6z8FBx2yPGCRLO3Tx\nsP6uBtIBLxlz+i0hAs5xbAV6+tVQ6OQhyAeScH7DTv+nfpwnkaZsFQCdTvA7dDg+\nJ3v8+oYsiJ6uBmiyrPAdB1Dz5wKBgQDPXV6ZFxLd9gRrnho0AuYjtOUKq7aazljw\nyKi2K07ia4WEvZGphIYje2yTFTxjj2pW3luk3vH803yh6plE+DtQJzUa7Y3bRG+I\ns0E0xqeke4GPC7OIqsqe1WMxRouhO+XlSqQcYxdi62qX+4YMdBEq6RaGteqq/4B3\nqfla06C3lwKBgQCV6HNUWkCE6yF+CaMTp52jJaOFtJw2IcrYnSpOn4VoQEzN2yHx\njFuprZf2NqtyoCNkIclhX7mJUqJ+kp3+teseD0YZ1SWIQ0DgJpdtO+vkEC8WOIMQ\nEIuhxDlxiqaXFrc7AXaubyKWFY5rILJpJFAG8QjLT3X75CaEwPOevE2wKwKBgCJV\nYEtSsbIEgNjctZP1AuvYkK/CnJpnHfzIDH8VDpuYl+PRi2OY6KjJT8HOm1AUt9Oo\nP149960XyyP39uaffxqXU0ihGoK6gwkMPPijB7DJLjtkAZbYSHIh/Kl097t7cmYT\nhLaahY3AUsbVQ22ebhU/wJYPWspzQW8OupWaQpsDAoGAAlU8q4q7pS6aD3mKlzhE\nKZyfu0URFPIMzU+q0VyP8VQ3tvswNQusPIKqFToF8ADaxeHTiLbTceg70B7EbvoN\ng4q4TJ7F2qLJCYz5Ftpi8WvcvR13zDfUrmX+6ZtqB6s9Ige4UuOWBmIl6VoE0Y4+\nmahVAKNIn4yxkNdQJCCML+c=\n-----END PRIVATE KEY-----\n",
+  "client_email": "loope-dialogflow-cuenta-servic@tutorialagentesp-hpko.iam.gserviceaccount.com",
+  "client_id": "100245827718710840988",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/loope-dialogflow-cuenta-servic%40tutorialagentesp-hpko.iam.gserviceaccount.com"
+}
